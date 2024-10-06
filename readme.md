@@ -99,6 +99,3 @@ Here’s how the app looks:
 With a few lines of code and machine learning, we built a simple yet powerful **startup profit prediction tool** that helps estimate profits based on key business spending data! 💡💸
 
 ---
-```
-
-This markdown keeps things concise with less code, more emojis, and includes a **screenshot section** for visual context!
