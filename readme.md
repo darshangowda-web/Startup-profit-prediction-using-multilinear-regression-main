@@ -91,7 +91,7 @@ You can access the **Startup Profit Prediction App** and try it out! 🚀
 ## 📸 Screenshot of the Web App:
 Here’s how the app looks:
 
-![Startup App Screenshot](DFGHK.png)
+![Startup App Screenshot](startup.png)
 
 ---
 
